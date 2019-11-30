@@ -10,5 +10,5 @@ Plan: focus on freeCodeCamp's curriculum and knock down a few more challenges, c
 Past Links: 
 
 - R1: [Round 1](https://github.com/haleyelder/100-days-of-code) - June 2017
-- R2: [Round 2](https://github.com/haleyelder/100-days-of-codev2/blob/master/log.md) - March 2019
+- R2: [Round 2](https://github.com/haleyelder/100-days-of-codev2) - March 2019
 - R3: Round 3, December 2019
