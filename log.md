@@ -1,7 +1,7 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
 3: December 3
-- today: completed last basic algo problem and onto reviewing object oriented programming (OOP) once more
+- today: completed last basic algo problem and onto reviewing object oriented programming (OOP) once more; total 9 challenges
     - time: 1 hour
     - tags: basic algorithms, OOP
 
