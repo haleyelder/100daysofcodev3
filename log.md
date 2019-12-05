@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+4: December 4
+- today: completed 8 more OOP challenges, bit distracted today but did it! excel sheet says 80% done with JS so far
+    - time: 1 hour
+    - tags: OOP
+    
 3: December 3
 - today: completed last basic algo problem and onto reviewing object oriented programming (OOP) once more; total 9 challenges
     - time: 1 hour
