@@ -1,5 +1,15 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+6: December 6
+- today: WWCode Portland Holiday party connecting with old and new peeps!
+    - time: 0min
+    - tags: networking!
+
+5: December 5
+- today: logging empty day, no code
+    - time: 0min
+    - tags: na
+
 4: December 4
 - today: completed 8 more OOP challenges, bit distracted today but did it! excel sheet says 80% done with JS so far
     - time: 1 hour
