@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+7: December 7
+- today: 10 challenges completed and finished up the Ojbect Oriented Programming section, and next is functional programming; definitely going to have to come back to OOP for more concepts..
+    - time: 1 hour
+    - tags: OOP, functional programming
+
 6: December 6
 - today: WWCode Portland Holiday party connecting with old and new peeps!
     - time: 0min
