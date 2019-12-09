@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+8: December 8
+- today: 4 challenges completed for functional programming concepts, short log due to focusing issues
+    - time: 30min
+    - tags: functional programming
+
 7: December 7
 - today: 10 challenges completed and finished up the Ojbect Oriented Programming section, and next is functional programming; definitely going to have to come back to OOP for more concepts..
     - time: 1 hour
