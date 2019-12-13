@@ -1,5 +1,15 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+12: December 12
+- today: 4 challenges for functional programming, map and filter methods so far. noting down explanations in my code notebook once more, helps a lot once the challenge is done, even if using hints to attempt to cement it
+    - time: 2 hours
+    - tags: functional programming
+
+9-11: December 9-11
+- today: hosting a visiting friend and WWCode end of year dinner! 
+    - time: 0
+    - tags: na, social :)
+
 8: December 8
 - today: 4 challenges completed for functional programming concepts, short log due to focusing issues
     - time: 30min
