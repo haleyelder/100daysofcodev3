@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+13: December 13
+- today: 5 challenges for functional programming, more map, filter, now reduce and sorting methods, starting to click a little bit more. jotted down some more explanations as well
+    - time: 1 hours
+    - tags: functional programming
+
 12: December 12
 - today: 4 challenges for functional programming, map and filter methods so far. noting down explanations in my code notebook once more, helps a lot once the challenge is done, even if using hints to attempt to cement it
     - time: 2 hours
