@@ -1,8 +1,13 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+14: December 14
+- today: 8 challenges done, finished FP section and 91% done with this cert! noted a couple I needed further review, i.e. currying and ternary operator
+    - time: 1 hour
+    - tags: functional programming
+
 13: December 13
 - today: 5 challenges for functional programming, more map, filter, now reduce and sorting methods, starting to click a little bit more. jotted down some more explanations as well
-    - time: 1 hours
+    - time: 1 hour
     - tags: functional programming
 
 12: December 12
