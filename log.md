@@ -1,5 +1,11 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+
+15: December 15
+- today: 10 challenges completed, regex section is done; it was not as difficult as I thought, just some catchup, now officially onto intermed algos...
+    - time: 1.5 hours
+    - tags: regex
+    
 14: December 14
 - today: 8 challenges done, finished FP section and 91% done with this cert! noted a couple I needed further review, i.e. currying and ternary operator
     - time: 1 hour
