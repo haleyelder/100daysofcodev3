@@ -1,6 +1,11 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
 
+16: December 16
+- today: 1 challenge completed, SO close without hints but i still write out the explanation anyway. halfway into next..
+    - time: 45 min
+    - tags: intermed algos
+
 15: December 15
 - today: 10 challenges completed, regex section is done; it was not as difficult as I thought, just some catchup, now officially onto intermed algos...
     - time: 1.5 hours
