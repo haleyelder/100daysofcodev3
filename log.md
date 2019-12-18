@@ -1,6 +1,11 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
 
+17: December 17
+- today: 0 challenges completed, but good headway on current algo; arguments! tricky things when you don't know your incoming data (arrays in this case). also got to put aside some work side project stuff for troubleshooting
+    - time: 1 hour
+    - tags: intermed algos; API troubleshooting
+
 16: December 16
 - today: 1 challenge completed, SO close without hints but i still write out the explanation anyway. halfway into next..
     - time: 45 min
