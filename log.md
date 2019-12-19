@@ -1,5 +1,9 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+18: December 18
+- today: 1.5 (more like 1.25 challenges completed); got that "im getting close but unsure and then just fall to the hints"; well.. one day at a time right. shouldn't take this as a fail though
+    - time: 1 hour
+    - tags: intermed algos
 
 17: December 17
 - today: 0 challenges completed, but good headway on current algo; arguments! tricky things when you don't know your incoming data (arrays in this case). also got to put aside some work side project stuff for troubleshooting
