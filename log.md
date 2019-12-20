@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+19: December 19
+- today: 1 challenge completed, did some work side project refactoring. recognized this is the point i usually have massive imposter syndrome and feel like a cheat for hints. I figure the projects later on will help me a bit more in this aspect
+    - time: 1.5 hours
+    - tags: intermed algos; refactoring
+
 18: December 18
 - today: 1.5 (more like 1.25 challenges completed); got that "im getting close but unsure and then just fall to the hints"; well.. one day at a time right. shouldn't take this as a fail though
     - time: 1 hour
