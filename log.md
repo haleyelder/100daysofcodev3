@@ -1,5 +1,13 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+22: December 22
+- today: 1 challenge completed; getting ready for holidays! may or may not get much done this week, and that's totally ok
+    - time: 30min
+    - tags: intermed algos
+    
+20-21: December 20-21
+- no activity; social!
+
 19: December 19
 - today: 1 challenge completed, did some work side project refactoring. recognized this is the point i usually have massive imposter syndrome and feel like a cheat for hints. I figure the projects later on will help me a bit more in this aspect
     - time: 1.5 hours
