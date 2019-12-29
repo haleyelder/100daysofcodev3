@@ -1,5 +1,13 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+28: December 28
+- today: 4 challenges completed; took a bit to get into the swing of things, I got pretty close on a couple but the hints still save me.  most time was due to killing time while my new Switch games downloaded :D
+    - time: 2 hours
+    - tags: intermed algos
+
+23-27: December 23 - 27
+- no activity: holidays with the fam! 
+
 22: December 22
 - today: 1 challenge completed; getting ready for holidays! may or may not get much done this week, and that's totally ok
     - time: 30min
