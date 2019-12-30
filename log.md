@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+29: December 29
+- today: 2 challenges completed, only 2 left! Did some additional scoping for Youtube algorithm walkthroughs since I'll need that extra boost for sure. 
+    - time: 1.5 hours
+    - tags: intermed algos
+
 28: December 28
 - today: 4 challenges completed; took a bit to get into the swing of things, I got pretty close on a couple but the hints still save me.  most time was due to killing time while my new Switch games downloaded :D
     - time: 2 hours
