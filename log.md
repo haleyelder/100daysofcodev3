@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+30: December 30
+- today: 2 last challenges done! intermed algo are COMPLETE, now to finish up the last two JS projects and the cert is complete!
+    - time: 1 hour
+    - tags: intermed algos
+
 29: December 29
 - today: 2 challenges completed, only 2 left! Did some additional scoping for Youtube algorithm walkthroughs since I'll need that extra boost for sure. 
     - time: 1.5 hours
