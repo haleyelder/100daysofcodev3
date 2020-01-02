@@ -1,5 +1,16 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+
+32: January 1
+- today: 1 challenge done today, only one more project for the cert, today was the phone validation and yes I was a bit lazy, technically still a holiday right?
+    - time: 30min
+    - tags: data structures and algo projects (4/5)
+    
+31: December 31
+- today: na, eve holiday!
+    - time: na
+    - tags: na
+
 30: December 30
 - today: 2 last challenges done! intermed algo are COMPLETE, now to finish up the last two JS projects and the cert is complete!
     - time: 1 hour
