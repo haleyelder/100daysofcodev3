@@ -1,5 +1,9 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+33: January 2
+- today: 0 challenges completed, doing some planning/problem breakdown for cash register, tricky! probably going to take longer this time around
+    - time: 1 hour
+    - tags: data structures and algo projects (4/5)
 
 32: January 1
 - today: 1 challenge done today, only one more project for the cert, today was the phone validation and yes I was a bit lazy, technically still a holiday right?
