@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+34-35: January 3-4
+- today: 0 challenges completed, drafting a new blog post for progress so far
+    - time: 30min drafting
+    - tags: writing; blog
+
 33: January 2
 - today: 0 challenges completed, doing some planning/problem breakdown for cash register, tricky! probably going to take longer this time around
     - time: 1 hour
