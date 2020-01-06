@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+36: January 5
+- today: 0 challenges, blog posted though! (https://dev.to/haleyelder/100daysofcode-rd-3-33-completed-l2i; https://blog.haleyelder.com/)
+    - time: 1 hour scrambling, drafting, writing, and post!
+    - tags: writing; blog
+
 34-35: January 3-4
 - today: 0 challenges completed, drafting a new blog post for progress so far
     - time: 30min drafting
