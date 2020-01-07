@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+37: January 6
+- today: 0 challenges, tiny bit of headway on cash register but it's been hard to wrap my head around how to do it, been reading others code to understand what others have done but am stuck. probably go my route of "get it done then get it pretty" effect
+    - time: 2 hours
+    - tags: data structures and algo projects
+
 36: January 5
 - today: 0 challenges, blog posted though! (https://dev.to/haleyelder/100daysofcode-rd-3-33-completed-l2i; https://blog.haleyelder.com/)
     - time: 1 hour scrambling, drafting, writing, and post!
@@ -13,12 +18,12 @@ start date: December 1, 2019; prospective end date: March 10, 2020
 33: January 2
 - today: 0 challenges completed, doing some planning/problem breakdown for cash register, tricky! probably going to take longer this time around
     - time: 1 hour
-    - tags: data structures and algo projects (4/5)
+    - tags: data structures and algo projects
 
 32: January 1
 - today: 1 challenge done today, only one more project for the cert, today was the phone validation and yes I was a bit lazy, technically still a holiday right?
     - time: 30min
-    - tags: data structures and algo projects (4/5)
+    - tags: data structures and algo projects
     
 31: December 31
 - today: na, eve holiday!
