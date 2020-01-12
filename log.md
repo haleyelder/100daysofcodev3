@@ -1,5 +1,15 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+42: January 11
+- today: technically JS cert is done but I 'gave up' with writing my own, been in a serious brain fog, im not great at math logic in algos and wanted to push through to get to the next step and add to my 'to learn' later on. i know it's not the best and could deter from getting the "actual cert" (whatever that may entail). in my mind it's done but it's not a 100% win in my book either. read through other's code to see what they had done, gone line by line to understand bits and pieces and it DID help quite a bit but will have to do more algo practice later. 
+    - time: 2 hours
+    - tags: data structures and algo projects
+
+38-41: January 7 - 10
+- today: na
+    - time: 0
+    - tags: na
+
 37: January 6
 - today: 0 challenges, tiny bit of headway on cash register but it's been hard to wrap my head around how to do it, been reading others code to understand what others have done but am stuck. probably go my route of "get it done then get it pretty" effect
     - time: 2 hours
