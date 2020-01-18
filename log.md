@@ -1,9 +1,19 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+48: January 17
+- today: 3 redux challenges, slowly getting the hang of it, probably makes way more sense in practice when and how to use
+    - time: 1 hour 
+    - tags: redux
+
+46-47: January 14 - 15
+- today: na
+    - time: na
+    - tags: na
+
 45: January 14
 - today: 1 challenge done and redid a few redux challenges since the knowledge is completely lost on me right now, I think this is where I stopped last time
     - time: 45min
-    - tags: react/redux
+    - tags: redux
 
 44: January 13
 - today: realized I need to reup my React/Redux knowledge, it's been a while! skimming some docs
