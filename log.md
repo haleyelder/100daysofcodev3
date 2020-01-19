@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+50: January 19
+- today: 2 react/redux challenges completed, hey half way done! spent most of today's time combing over and rewriting a challenge component and understanding each part, it's been a while, React!
+    - time: 1.5 hours
+    - tags: react/redux
+
 49: January 18
 - today: 6 redux challenges, mashing them together starting tomorrow!
     - time: 2.5 hours
