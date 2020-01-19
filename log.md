@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+49: January 18
+- today: 6 redux challenges, mashing them together starting tomorrow!
+    - time: 2.5 hours
+    - tags: redux
+
 48: January 17
 - today: 3 redux challenges, slowly getting the hang of it, probably makes way more sense in practice when and how to use
     - time: 1 hour 
