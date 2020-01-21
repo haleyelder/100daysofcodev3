@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+51: January 20
+- today: 1 react/redux challenge done today, reread over the redux basic tutorial and jotted down some notes, that helped a lot with understanding, who knew you couldn't just wing it ;)
+    - time: 1 hour
+    - tags: react/redux
+
 50: January 19
 - today: 2 react/redux challenges completed, hey half way done! spent most of today's time combing over and rewriting a challenge component and understanding each part, it's been a while, React!
     - time: 1.5 hours
