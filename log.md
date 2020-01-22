@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+52: January 21
+- today: no challenges, just making sure I can run the Collab Lab project locally, already troubleshooted some error i got after cloning. classic uninstall/reinstall, starts next week! :D
+    - time: 30 min
+    - tags: node
+
 51: January 20
 - today: 1 react/redux challenge done today, reread over the redux basic tutorial and jotted down some notes, that helped a lot with understanding, who knew you couldn't just wing it ;)
     - time: 1 hour
