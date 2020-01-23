@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+53: January 22
+- today: 7 challenges completed to round out the react/redux spot, onto the remaining 2 projects of the front end cert!
+    - time: 1 hour 15min
+    - tags: react/redux
+
 52: January 21
 - today: no challenges, just making sure I can run the Collab Lab project locally, already troubleshooted some error i got after cloning. classic uninstall/reinstall, starts next week! :D
     - time: 30 min
