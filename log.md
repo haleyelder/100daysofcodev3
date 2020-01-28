@@ -1,5 +1,7 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+**on temporary hiatus for [Collab Lab](https://the-collab-lab.codes) work!**
+
 53: January 22
 - today: 7 challenges completed to round out the react/redux spot, onto the remaining 2 projects of the front end cert!
     - time: 1 hour 15min
