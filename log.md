@@ -1,4 +1,4 @@
-start date: December 1, 2019; prospective end date: March 10, 2020
+start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
  54: April 20
  - today: started a new thing, the udacity full stack foundations free course as a precursor to the nanodegree if I really want to do that. working through getting SQLAlchemy set up, a database and lots of installation (VM and Vagrant woot)
