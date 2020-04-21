@@ -1,5 +1,13 @@
 start date: December 1, 2019; prospective end date: March 10, 2020
 
+ 54: April 20
+ - today: started a new thing, the udacity full stack foundations free course as a precursor to the nanodegree if I really want to do that. working through getting SQLAlchemy set up, a database and lots of installation (VM and Vagrant woot)
+    - 2 hours (mostly updating python and troubleshooting)
+    - tages: python
+ 
+**update: done and see the repo [here](
+https://github.com/the-collab-lab/tcl-4-smart-shopping-list), and the rest of the cohorts info [here!](https://the-collab-lab.codes/about-us/)**
+
 **on temporary hiatus for [Collab Lab](https://the-collab-lab.codes) work!**
 
 53: January 22
