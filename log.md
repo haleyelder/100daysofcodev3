@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+56: April 22
+ - today: got a quick template for a CRUD firebase project to test out, currently component based but would like to tailor it to 'watchlist' a bit and add in bits and pieces, and a refactor to use more hooks
+    - 1 hour
+    - tages: javascript
+
 55: April 21
  - today: that was a quick backfire! outdated tech and docs, not worth to fight through at the moment, have a back up tutorial and working through that, back to MERN type stuff!
     - 2 hours 
