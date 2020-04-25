@@ -1,8 +1,13 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+59: April 25
+ - today: feeling stuck and running around in circles, either do a CRUD app and connect to the API later, or do the API now with a search bar and add to a DB. not sure why this feels so difficult, probably need to review docs once more
+    -  1 hours
+    - tags: javascript
+
 58: April 24
  - today:  starting to get firebase set up for 'watchlist' and what may need to go into refactoring with hooks
-    - 30 min
+    - 2 hours
     - tags: javascript
 
 57: April 23
