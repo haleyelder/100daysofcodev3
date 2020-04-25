@@ -1,19 +1,29 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+58: April 24
+ - today:  starting to get firebase set up for 'watchlist' and what may need to go into refactoring with hooks
+    - 30 min
+    - tags: javascript
+
+57: April 23
+ - today:  took a break!
+    - na
+    - tags: na
+
 56: April 22
  - today: got a quick template for a CRUD firebase project to test out, currently component based but would like to tailor it to 'watchlist' a bit and add in bits and pieces, and a refactor to use more hooks
     - 1 hour
-    - tages: javascript
+    - tags: javascript
 
 55: April 21
  - today: that was a quick backfire! outdated tech and docs, not worth to fight through at the moment, have a back up tutorial and working through that, back to MERN type stuff!
     - 2 hours 
-    - tages: javascript
+    - tags: javascript
 
 54: April 20
  - today: started a new thing, the udacity full stack foundations free course as a precursor to the nanodegree if I really want to do that. working through getting SQLAlchemy set up, a database and lots of installation (VM and Vagrant woot)
     - 2 hours (mostly updating python and troubleshooting)
-    - tages: python
+    - tags: python
  
 **update: done and see the repo [here](
 https://github.com/the-collab-lab/tcl-4-smart-shopping-list), and the rest of the cohorts info [here!](https://the-collab-lab.codes/about-us/)**
