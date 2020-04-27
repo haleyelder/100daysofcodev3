@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+60: April 26
+ - today: beginning of a refactor for a simple CRUD tutorial to connect with firebase to hooks, it's slowly coming back...
+    -  40 min
+    - tags: javascript
+
 59: April 25
  - today: feeling stuck and running around in circles, either do a CRUD app and connect to the API later, or do the API now with a search bar and add to a DB. not sure why this feels so difficult, probably need to review docs once more
     -  1 hours
