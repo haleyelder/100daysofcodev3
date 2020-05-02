@@ -1,5 +1,15 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+65: May 1
+ - today: slowly going through previous day fullstack open...
+    - 1 hour
+    - tags: javascript
+
+64: April 30
+ - today: went through old bookmarks and found this! https://fullstackopen.com/ working through it for more practice, even has hooks, connecto mongo, etc
+    - 30 min
+    - tags: javascript
+
 63: April 29
  - today: rendering stepped back a little bit, found another reference and slogging away at it...
     - 1.5 hours
