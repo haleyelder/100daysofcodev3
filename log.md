@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+67: May 3
+ - today: still chugging through, short day to relax maybe!
+    - 30 min
+    - tags: javascript
+
 66: May 2
  - today: more progress from the site, some is review which is nice, definitely a good template for future use on watchlist
     - 1.5 hour
