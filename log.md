@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+66: May 2
+ - today: more progress from the site, some is review which is nice, definitely a good template for future use on watchlist
+    - 1.5 hour
+    - tags: javascript
+
 65: May 1
  - today: slowly going through previous day fullstack open...
     - 1 hour
