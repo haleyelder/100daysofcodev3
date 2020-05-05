@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+68: May 4
+ - today: longer day to get through some more functionality and styling, next is setting up the backend, etc
+    - 2 hours
+    - tags: javascript
+    
 67: May 3
  - today: still chugging through, short day to relax maybe!
     - 30 min
