@@ -1,5 +1,13 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+71: May 7
+ - today: set up the basic back end with express and working to deploy with heroku and marry the front and back togehter, erroring with heroku aka tomorrow's problem!
+    - 1 hour
+    - tags: javascript
+
+69-70: May 5, 6
+ - break!
+
 68: May 4
  - today: longer day to get through some more functionality and styling, next is setting up the backend, etc
     - 2 hours
