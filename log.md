@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+72: May 8
+ - today: rookie mistake and removed a git folder for troubleshooting and deleted all work on the tutorial thus far...set it aside and back up to where I was but still running into a heroku error. for real, tmrw's problem and NOT deleting it!
+    - 4 hours
+    - tags: javascript
+
 71: May 7
  - today: set up the basic back end with express and working to deploy with heroku and marry the front and back togehter, erroring with heroku aka tomorrow's problem!
     - 1 hour
