@@ -1,5 +1,15 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+74: May 8
+ - today: back to watchlist mern! a general to do list of what to do to achieve an MVP of sorts, cleaned up Mongo db's and set up a fresh cluster
+    - 1 hour
+    - tags: javascript
+
+73: May 9
+ - today: spent more time trying to configure heroku and couldnt get it to deploy properly, onto something else! I will most likely use it later to deploy but instructions were confusing
+    - 2 hours
+    - tags: javascript
+
 72: May 8
  - today: rookie mistake and removed a git folder for troubleshooting and deleted all work on the tutorial thus far...set it aside and back up to where I was but still running into a heroku error. for real, tmrw's problem and NOT deleting it!
     - 4 hours
