@@ -1,6 +1,11 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
-74: May 8
+75: May 11
+ - today: added some models, routes, etc fixing typos already creating errors :P
+    - 30 min
+    - tags: javascript
+
+74: May 10
  - today: back to watchlist mern! a general to do list of what to do to achieve an MVP of sorts, cleaned up Mongo db's and set up a fresh cluster
     - 1 hour
     - tags: javascript
