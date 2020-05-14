@@ -1,5 +1,13 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+77: May 13
+ - today: installed Netbeans and working through Java on codecademy, found a free udemy to learn some java... yes, java...
+    - 1 hour
+    - tags: java
+
+76: May 12
+ - today: break!
+
 75: May 11
  - today: added some models, routes, etc fixing typos already creating errors :P
     - 30 min
