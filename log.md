@@ -1,5 +1,13 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+80: May 16
+ - today: continuing through codecademy's java course, it feels like restarting all the way over with coding learning, they are picky about those semicolons...
+    - 30 min
+    - tags: java
+
+78-79: May 14-15
+ - today: break!
+
 77: May 13
  - today: installed Netbeans and working through Java on codecademy, found a free udemy to learn some java... yes, java...
     - 1 hour
