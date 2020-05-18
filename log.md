@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+81: May 17
+ - today: found a recommendations similar to fCC for java (here)[https://hyperskill.org/]; got pretty far as well with some syntax practice at w3schools (they aren't that bad :P); stuck in a reverse scanner problem...hmm
+    - 2.5 hours
+    - tags: java
+
 80: May 16
  - today: continuing through codecademy's java course, it feels like restarting all the way over with coding learning, they are picky about those semicolons...
     - 30 min
