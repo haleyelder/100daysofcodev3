@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+82: May 18
+ - today: back to watchlist and a MERN tutorial to finalize; scaffolding is up and now to refactor, first is converting components to functional and add in hooks.
+    - 2 hours
+    - tags: javascript
+    
 81: May 17
  - today: found a recommendations similar to fCC for java [here](https://hyperskill.org/); got pretty far as well with some syntax practice at w3schools (they aren't that bad :P); stuck in a reverse scanner problem...hmm
     - 2.5 hours
