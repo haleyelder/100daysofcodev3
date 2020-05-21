@@ -1,5 +1,13 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+84: May 20
+ - today:some more java basics info; still not getting scanner concept still..putting into practice would be much easier I assume
+    - 45min
+    - tags: java
+
+83: May 19
+ - today: break
+
 82: May 18
  - today: back to watchlist and a MERN tutorial to finalize; scaffolding is up and now to refactor, first is converting components to functional and add in hooks.
     - 2 hours
