@@ -1,5 +1,13 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+86: May 22
+ - today: watched 30min of java learning videos, wrote a mini program! started setting up to convert components to hooks and will leave that for this weekend
+    - 1 hour
+    - tags: java, javascript
+    
+85: May 21
+ - today: break
+    
 84: May 20
  - today:some more java basics info; still not getting scanner concept still..putting into practice would be much easier I assume
     - 45min
