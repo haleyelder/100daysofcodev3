@@ -1,5 +1,18 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+89: May 25
+ - today: digging back into refactoring, almost finished up one component, re-understanding of passing props and when certain functions run
+    - 1 hour
+    - tags: javascript
+
+88: May 24
+ - today: break
+ 
+87: May 23
+ - today: continued youtube course and started the udemy project based java course in tandem and a little bit of mern refactoring.
+    - 3.5 hours
+    - tags: java, javascript
+
 86: May 22
  - today: watched 30min of java learning videos, wrote a mini program! started setting up to convert components to hooks and will leave that for this weekend
     - 1 hour
