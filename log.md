@@ -1,5 +1,15 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+91: May 27
+ - today: catching up refactoring and one component converted and seems to be working! onto the next
+    - 1 hour
+    - tags: javascript
+
+90: May 26
+ - today: just starting to get back to refactoring to hooks and the internet went out, short night!
+    - 30 min
+    - tags: javascript
+
 89: May 25
  - today: digging back into refactoring, almost finished up one component, re-understanding of passing props and when certain functions run
     - 1 hour
