@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+92: May 28
+ - today: continuing with refactoring, found another react hooks and mern tutorial to reference where i was getting a bit stuck with updating state
+    - 2 hours
+    - tags: javascript
+
 91: May 27
  - today: catching up refactoring and one component converted and seems to be working! onto the next
     - 1 hour
