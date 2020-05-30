@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+94: May 30
+ - today: fresher mind and another overhaul, is this what side projects are all about?? the base level is there but now it's not connecting to the database to add or update info. it's listing but not much else hmmm
+    - 2 hour
+    - tags: javascript
+
 93: May 29
  - today: more refactoring reading and googling, react hooks, axios and refactoring, long week so will have to revisit tomorrow with a fresh brain
     - 1 hour
