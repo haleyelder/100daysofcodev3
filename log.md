@@ -1,5 +1,10 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+93: May 29
+ - today: more refactoring reading and googling, react hooks, axios and refactoring, long week so will have to revisit tomorrow with a fresh brain
+    - 1 hour
+    - tags: javascript
+
 92: May 28
  - today: continuing with refactoring, found another react hooks and mern tutorial to reference where i was getting a bit stuck with updating state
     - 2 hours
