@@ -1,5 +1,12 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+97: Jun 2
+- today: small debugging, not getting too far, referencing some more axios posting to mongo details
+    - 45min
+    - tags: javascript
+
+95, 96: May 31, Jun 1: break
+
 94: May 30
  - today: fresher mind and another overhaul, is this what side projects are all about?? the base level is there but now it's not connecting to the database to add or update info. it's listing but not much else hmmm
     - 2 hour
