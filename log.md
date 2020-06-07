@@ -1,5 +1,12 @@
 start date: December 1, 2019; prospective end date: ~~March 10, 2020~~ June 5, 2020
 
+100: June 6 (yup skipped a day!)
+- today: one last MERN run through tutorial with mongo and it seems to be in a good place with what i want going further, holy how made it to 100, there are breaks but they are necessary! i noticed some burnout with frustration of learning and amplified by world events, it's a nice time to take a bit away and come back at a later time (not too long though)! glad to finish this up :) blog post coming at that time
+    - 2 hours
+    - tags: javascript
+
+98-99: Jun 3-4: break
+
 97: Jun 2
 - today: small debugging, not getting too far, referencing some more axios posting to mongo details
     - 45min
